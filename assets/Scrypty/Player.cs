@@ -36,6 +36,8 @@ public class Player : ScriptableObject {
         Hand = new List<CardClass>();
     }
 
+    //testowy komentarz
+
 
 	// Use this for initialization
 	void Start () {	}
