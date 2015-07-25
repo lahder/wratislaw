@@ -1,0 +1,12 @@
+;30;1;2;3;4;5;6;7;8;9;5;6;7;8;9;;;
+ID:;Il kart:;Tytu³:;Opis:;Dzia³anie:;Dodatkowy warunek:;Koszt Koœció³:;Koszt Lud:;Koszt Dwór:;Koszt Rada:;Koszt Kasa:;Zysk Koœció³:;Zysk Lud:;Zysk Dwór:;Zysk Rada:;Zysk Kasa:;Wymaga:;E;F
+2001;2;O³tarz patrona;Mo¿esz ufundowaæ o³tarz swego partona;Zyskujesz poparcie Koœcio³a i ludu.;Cech posiada patrona.;0;0;0;0;200;0,15;0,05;0;0;0;;2;
+2002;2;Nadanie Patrona;Koœció³ poleca Twój cech pod protekcjê œwiêtego.;Zyskujesz patrona i powa¿anie.;0;0,2;0;0;0;50;0;0,1;0,1;0;0;;14;
+2003;3;Procesja;Organizujesz procesjê ulicami miasta, ku czci Swojego patrona;Zyskujesz poparcie Koœcio³a i ludu.;Cech posiada patrona.;0,3;0,1;0;0;50;0,1;0,1;0;0;0;;26;
+2004;3;Ufundowanie Kaplicy;"""13 marca 1345 biskup wroc³awski Przec³aw z Pogorzeli wyrazi³ zgodê na urz¹dzenie kaplicy.""";Budujesz kaplicê w Ratuszu Miejskim;Nie istnieje jeszcze ¿adna kaplica w Ratuszu;0,6;0;0,3;0;1500;0,3;0;0,1;0;0;B;38;
+2005;5;Odpust;Kupujesz odpust.;Jesteœ przychylniej postrzegany przez Koœció³;0;0;0;0;0;50;0,1;0;0;0;0;;50;
+2006;3;Oskar¿enie o Czary;Oskar¿asz innego gracza o uprawianie magii. ;Usuñ agenta innego gracza.;0;0,35;0;0;0;0;0;0;0;0;0;G;62;
+2007;3;Oskar¿enie o Herezjê;Oskar¿asz innego gracza o g³oszenie pogl¹dów niezgodnych z wol¹ Koœcio³a.;Usuñ agenta innego gracza.;0;0,3;0;0;0;0;0;0;0;0;0;G;74;
+2008;1;Ekskomunika;W wyniku Twojej intrygi, Koœció³ wyrzuca inny cech ze wspólnoty Chrzeœcijan.;Twoja opinia leg³a w gruzach!;0;0,8;0;0;0;0;-0,7;-0,7;-0,7;0;0;G;86;
+2009;6;SpowiedŸ;Ktoœ podczas spowiedzi donosi o Twoich wystêpkach.;Tracisz wp³ywy w Koœciele.;0;0;0,15;0;0;0;-0,15;0;0;0;0;G;98;
+2010;2;Œci¹gniêcie Osadników;W II po³. XII biskup Walter œci¹gn¹³ osadników waloñskich wraz z augustianami. Przybysze przywieŸli ze sob¹ wiele nowinek technicznych.;Przychód x1,5.;0;0,6;0;0;0;300;0;0;0;0;0;;110;
